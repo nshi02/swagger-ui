@@ -2,7 +2,7 @@ window.onload = function() {
   //<editor-fold desc="Changeable Configuration Block">
 
   window.ui = SwaggerUIBundle({
-    url: "https://raw.githubusercontent.com/nshi02/PaymentBlock_swagger/main/openapi.json",
+    url: "https://raw.githubusercontent.com/nshi02/PaymentBlock/main/openapi.json",
     dom_id: '#swagger-ui',
     deepLinking: true,  
     presets: [
